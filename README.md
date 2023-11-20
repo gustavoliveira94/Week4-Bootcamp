@@ -1,13 +1,15 @@
-# Encodeclub tokenized ballot frontend and backend
+# Frontend and Backend - Web3
 
-frontend
+Frontend
+
 ```
-yarn install
-yarn start
+npm install
+npm start
 ```
 
-backend
+Backend
+
 ```
-yarn install
-yarn run start
+npm install
+npm run start
 ```
